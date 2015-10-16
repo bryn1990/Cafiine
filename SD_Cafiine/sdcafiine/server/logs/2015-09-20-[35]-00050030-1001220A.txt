@@ -1,0 +1,10 @@
+[35] Accepted connection from client 192.168.1.47:4025
+[35] TitleID: 00050030-1001220A
+[35] FSOpenFileAsync("/vol/save/80000001/psv.bin", "r")
+[35] FSOpenFileAsync("/vol/save/80000001/psv.bin", "r")
+[35] FSOpenFileAsync("/vol/save/80000001/psv.bin", "r")
+[35] FSOpenFileAsync("/vol/save/common/csv.bin", "r")
+[35] FSOpenFileAsync("/vol/save/common/csv.bin", "r")
+[35] FSOpenFileAsync("/vol/save/common/csv.bin", "r")
+[35] FSOpenFileAsync("/vol/save/80000001/psv.bin", "r+")
+[35] Failed to read past end of stream.

@@ -1,0 +1,23 @@
+[22] Accepted connection from client 192.168.1.47:4010
+[22] TitleID: 00050010-10040200
+[22] FSOpenFile("/vol/storage_mlc01/sys/title/00050010/1004a200/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/sys/title/00050010/1004a200/meta/iconTex.tga", "r")
+[22] FSOpenFile("/vol/storage_mlc01/sys/title/00050010/10047200/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/sys/title/00050010/10047200/meta/iconTex.tga", "r")
+[22] FSOpenFile("/vol/storage_mlc01/sys/title/00050010/1005a200/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/sys/title/00050010/1005a200/meta/iconTex.tga", "r")
+[22] FSOpenFile("/vol/storage_mlc01/usr/title/00050000/10105700/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/usr/title/00050000/10105700/meta/iconTex.tga", "r")
+[22] FSOpenFile("/vol/storage_mlc01/usr/title/00050000/10102f00/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/usr/title/00050000/10102f00/meta/iconTex.tga", "r")
+[22] FSOpenFile("/vol/storage_mlc01/sys/title/00050010/1004c200/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/sys/title/00050010/1004c200/meta/iconTex.tga", "r")
+[22] FSOpenFile("/vol/storage_mlc01/sys/title/00050010/10048200/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/sys/title/00050010/10048200/meta/iconTex.tga", "r")
+[22] FSOpenFile("/vol/storage_mlc01/sys/title/00050010/1004e200/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/sys/title/00050010/1004e200/meta/iconTex.tga", "r")
+[22] FSOpenFile("/vol/storage_mlc01/usr/title/00050000/10149600/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/usr/title/00050000/10149600/meta/iconTex.tga", "r")
+[22] FSOpenFile("/vol/storage_mlc01/usr/title/00050002/10172701/meta/iconTex.tga", "r")
+[22] FSOpenFileAsync("/vol/storage_mlc01/usr/title/00050002/10172701/meta/iconTex.tga", "r")
+[22] Read failure

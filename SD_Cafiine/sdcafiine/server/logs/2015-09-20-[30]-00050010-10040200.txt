@@ -1,0 +1,5 @@
+[30] Accepted connection from client 192.168.1.47:4018
+[30] TitleID: 00050010-10040200
+[30] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10058000/content/00/drmapp.arc", "r")
+[30] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10058000/content/00/drmapp.arc", "r")
+[30] Failed to read past end of stream.

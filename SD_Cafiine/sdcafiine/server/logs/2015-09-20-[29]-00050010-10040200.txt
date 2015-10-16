@@ -1,0 +1,13 @@
+[29] Accepted connection from client 192.168.1.47:4017
+[29] TitleID: 00050010-10040200
+[29] FSChangeDir("/vol/content")
+[29] Trying to mount SD card
+[29] Can't mount SD card
+[29] FSGetStat("/vol/external01/0005001010040200")
+[29] FSChangeDir("/vol/content")
+[29] Trying to mount SD card
+[29] Can't mount SD card
+[29] FSGetStat("/vol/external01/0005001010040200")
+[29] FSOpenFile("Common/Sound/Men/cafe_barista_men.bfsar", "r")
+[29] FSOpenFileAsync("Common/Sound/Men/cafe_barista_men.bfsar", "r")
+[29] Failed to read past end of stream.

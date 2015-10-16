@@ -1,0 +1,19 @@
+[40] Accepted connection from client 192.168.1.47:4030
+[40] TitleID: 00050030-1001220A
+[40] FSOpenFile("/vol/content/mvplayer.ini", "r")
+[40] Trying to mount SD card
+[40] Can't mount SD card
+[40] FSGetStat("/vol/external01/000500301001220A/mvplayer.ini")
+[40] FSOpenFileAsync("/vol/content/mvplayer.ini", "r")
+[40] Trying to mount SD card
+[40] Can't mount SD card
+[40] FSGetStat("/vol/external01/000500301001220A/mvplayer.ini")
+[40] FSOpenFile("/vol/content/mvplayer.log", "r")
+[40] Trying to mount SD card
+[40] Can't mount SD card
+[40] FSGetStat("/vol/external01/000500301001220A/mvplayer.log")
+[40] FSOpenFileAsync("/vol/content/mvplayer.log", "r")
+[40] Trying to mount SD card
+[40] Can't mount SD card
+[40] FSGetStat("/vol/external01/000500301001220A/mvplayer.log")
+[40] Failed to read past end of stream.

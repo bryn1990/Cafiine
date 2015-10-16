@@ -1,0 +1,7 @@
+[41] Accepted connection from client 192.168.1.47:4031
+[41] TitleID: 00050030-1001220A
+[41] FSOpenDir("/vol/storage_mlc01/sys/title/0005001b/1005c000/content")
+[41] FSOpenDirAsync("/vol/storage_mlc01/sys/title/0005001b/1005c000/content")
+[41] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/1005c000/content/language.txt", "r")
+[41] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/1005c000/content/language.txt", "r")
+[41] Failed to read past end of stream.

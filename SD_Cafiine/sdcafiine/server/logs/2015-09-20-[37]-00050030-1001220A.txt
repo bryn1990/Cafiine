@@ -1,0 +1,3 @@
+[37] Accepted connection from client 192.168.1.47:4027
+[37] TitleID: 00050030-1001220A
+[37] Failed to read past end of stream.

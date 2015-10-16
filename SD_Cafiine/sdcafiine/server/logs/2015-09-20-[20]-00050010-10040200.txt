@@ -1,0 +1,13 @@
+[20] Accepted connection from client 192.168.1.47:4008
+[20] TitleID: 00050010-10040200
+[20] FSGetStat("/vol/save/common/BaristaCommonSaveFile.dat")
+[20] FSOpenFileAsync("/vol/save/common/BaristaCommonSaveFile.dat", "r")
+[20] FSGetStat("/vol/save/common/BaristaIconDataBase.dat")
+[20] FSOpenFileAsync("/vol/save/common/BaristaIconDataBase.dat", "r")
+[20] FSGetStat("/vol/save/common/BaristaIconDataBase.dat")
+[20] FSOpenFileAsync("/vol/save/common/BaristaIconDataBase.dat", "r")
+[20] FSGetStat("/vol/save/common/BaristaIconDataBase.dat")
+[20] FSOpenFileAsync("/vol/save/common/BaristaIconDataBase.dat", "r")
+[20] FSGetStat("/vol/save/80000001/BaristaAccountSaveFile.dat")
+[20] FSOpenFileAsync("/vol/save/80000001/BaristaAccountSaveFile.dat", "r")
+[20] Read failure

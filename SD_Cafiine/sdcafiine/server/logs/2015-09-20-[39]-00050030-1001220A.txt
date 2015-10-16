@@ -1,0 +1,11 @@
+[39] Accepted connection from client 192.168.1.47:4029
+[39] TitleID: 00050030-1001220A
+[39] FSOpenFile("/vol/content/sound/wiiu_surf.bfsar", "r")
+[39] Trying to mount SD card
+[39] Can't mount SD card
+[39] FSGetStat("/vol/external01/000500301001220A/sound/wiiu_surf.bfsar")
+[39] FSOpenFileAsync("/vol/content/sound/wiiu_surf.bfsar", "r")
+[39] Trying to mount SD card
+[39] Can't mount SD card
+[39] FSGetStat("/vol/external01/000500301001220A/sound/wiiu_surf.bfsar")
+[39] Failed to read past end of stream.

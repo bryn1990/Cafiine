@@ -1,0 +1,53 @@
+[17] Accepted connection from client 192.168.1.47:4005
+[17] TitleID: 00050010-10040200
+[17] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10056000/content/FFLResMiddleLG.dat", "r")
+[17] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10056000/content/FFLResMiddleLG.dat", "r")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuEnglish/DeviceEula.msbt")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuEnglish/DeviceEula.msbt")
+[17] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuEnglish/DeviceEula.msbt", "r")
+[17] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuEnglish/DeviceEula.msbt", "r")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuFrench/DeviceEula.msbt")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuFrench/DeviceEula.msbt")
+[17] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuFrench/DeviceEula.msbt", "r")
+[17] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuFrench/DeviceEula.msbt", "r")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuGerman/DeviceEula.msbt")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuGerman/DeviceEula.msbt")
+[17] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuGerman/DeviceEula.msbt", "r")
+[17] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuGerman/DeviceEula.msbt", "r")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuItalian/DeviceEula.msbt")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuItalian/DeviceEula.msbt")
+[17] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuItalian/DeviceEula.msbt", "r")
+[17] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuItalian/DeviceEula.msbt", "r")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuDutch/DeviceEula.msbt")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuDutch/DeviceEula.msbt")
+[17] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuDutch/DeviceEula.msbt", "r")
+[17] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuDutch/DeviceEula.msbt", "r")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuSpanish/DeviceEula.msbt")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuSpanish/DeviceEula.msbt")
+[17] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuSpanish/DeviceEula.msbt", "r")
+[17] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuSpanish/DeviceEula.msbt", "r")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuPortuguese/DeviceEula.msbt")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuPortuguese/DeviceEula.msbt")
+[17] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuPortuguese/DeviceEula.msbt", "r")
+[17] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuPortuguese/DeviceEula.msbt", "r")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuRussian/DeviceEula.msbt")
+[17] FSGetStat("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuRussian/DeviceEula.msbt")
+[17] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuRussian/DeviceEula.msbt", "r")
+[17] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10050000/content/00/EuRussian/DeviceEula.msbt", "r")
+[17] FSGetStat("/vol/content/EuFrench/Olive/1stNUP.xml")
+[17] Trying to mount SD card
+[17] Can't mount SD card
+[17] FSGetStat("/vol/external01/0005001010040200/EuFrench/Olive/1stNUP.xml")
+[17] FSGetStat("/vol/content/EuFrench/Olive/1stNUP.xml")
+[17] Trying to mount SD card
+[17] Can't mount SD card
+[17] FSGetStat("/vol/external01/0005001010040200/EuFrench/Olive/1stNUP.xml")
+[17] FSOpenFile("/vol/content/EuFrench/Olive/1stNUP.xml", "r")
+[17] Trying to mount SD card
+[17] Can't mount SD card
+[17] FSGetStat("/vol/external01/0005001010040200/EuFrench/Olive/1stNUP.xml")
+[17] FSOpenFileAsync("/vol/content/EuFrench/Olive/1stNUP.xml", "r")
+[17] Trying to mount SD card
+[17] Can't mount SD card
+[17] FSGetStat("/vol/external01/0005001010040200/EuFrench/Olive/1stNUP.xml")
+[17] Read failure

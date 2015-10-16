@@ -1,0 +1,6 @@
+C:\Users\golden\Desktop\sdcafiine_server\src\bin\Debug\sdcafiine_server.exe.config
+C:\Users\golden\Desktop\sdcafiine_server\src\bin\Debug\sdcafiine_server.exe
+C:\Users\golden\Desktop\sdcafiine_server\src\bin\Debug\sdcafiine_server.pdb
+C:\Users\golden\Desktop\sdcafiine_server\src\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\golden\Desktop\sdcafiine_server\src\obj\x86\Debug\sdcafiine_server.exe
+C:\Users\golden\Desktop\sdcafiine_server\src\obj\x86\Debug\sdcafiine_server.pdb

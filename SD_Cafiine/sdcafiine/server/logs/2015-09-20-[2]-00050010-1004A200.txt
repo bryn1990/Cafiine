@@ -1,0 +1,5 @@
+[2] Accepted connection from client 192.168.1.47:3989
+[2] TitleID: 00050010-1004A200
+[2] FSOpenDir("/vol/external01/DCIM/")
+[2] FSOpenDirAsync("/vol/external01/DCIM/")
+[2] Read failure

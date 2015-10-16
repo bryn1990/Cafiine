@@ -1,0 +1,3 @@
+[25] Accepted connection from client 192.168.1.47:4013
+[25] TitleID: 00050010-10040200
+[25] Read failure

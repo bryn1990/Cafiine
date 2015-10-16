@@ -1,0 +1,101 @@
+[19] Accepted connection from client 192.168.1.47:4007
+[19] TitleID: 00050010-10040200
+[19] FSOpenFile("/vol/content/Common/Package/Men.pack", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/Common/Package/Men.pack")
+[19] FSOpenFileAsync("/vol/content/Common/Package/Men.pack", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/Common/Package/Men.pack")
+[19] FSGetStat("/vol/content/Common/System/RegionLang.txt")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/Common/System/RegionLang.txt")
+[19] FSGetStat("/vol/content/Common/System/RegionLang.txt")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/Common/System/RegionLang.txt")
+[19] FSOpenFile("/vol/content/Common/System/RegionLang.txt", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/Common/System/RegionLang.txt")
+[19] FSOpenFileAsync("/vol/content/Common/System/RegionLang.txt", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/Common/System/RegionLang.txt")
+[19] FSOpenFile("/vol/content/Common/Package/Men2.pack", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/Common/Package/Men2.pack")
+[19] FSOpenFileAsync("/vol/content/Common/Package/Men2.pack", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/Common/Package/Men2.pack")
+[19] FSOpenFile("/vol/storage_mlc01/sys/title/0005001b/10051000/content/00/erreula/erreula.pack", "r")
+[19] FSOpenFileAsync("/vol/storage_mlc01/sys/title/0005001b/10051000/content/00/erreula/erreula.pack", "r")
+[19] FSOpenFile("/vol/content/EuEnglish/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuEnglish/Message/AllMessage.szs")
+[19] FSOpenFileAsync("/vol/content/EuEnglish/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuEnglish/Message/AllMessage.szs")
+[19] FSOpenFile("/vol/content/EuFrench/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuFrench/Message/AllMessage.szs")
+[19] FSOpenFileAsync("/vol/content/EuFrench/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuFrench/Message/AllMessage.szs")
+[19] FSOpenFile("/vol/content/EuGerman/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuGerman/Message/AllMessage.szs")
+[19] FSOpenFileAsync("/vol/content/EuGerman/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuGerman/Message/AllMessage.szs")
+[19] FSOpenFile("/vol/content/EuItalian/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuItalian/Message/AllMessage.szs")
+[19] FSOpenFileAsync("/vol/content/EuItalian/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuItalian/Message/AllMessage.szs")
+[19] FSOpenFile("/vol/content/EuSpanish/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuSpanish/Message/AllMessage.szs")
+[19] FSOpenFileAsync("/vol/content/EuSpanish/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuSpanish/Message/AllMessage.szs")
+[19] FSOpenFile("/vol/content/EuDutch/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuDutch/Message/AllMessage.szs")
+[19] FSOpenFileAsync("/vol/content/EuDutch/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuDutch/Message/AllMessage.szs")
+[19] FSOpenFile("/vol/content/EuPortuguese/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuPortuguese/Message/AllMessage.szs")
+[19] FSOpenFileAsync("/vol/content/EuPortuguese/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuPortuguese/Message/AllMessage.szs")
+[19] FSOpenFile("/vol/content/EuRussian/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuRussian/Message/AllMessage.szs")
+[19] FSOpenFileAsync("/vol/content/EuRussian/Message/AllMessage.szs", "r")
+[19] Trying to mount SD card
+[19] Can't mount SD card
+[19] FSGetStat("/vol/external01/0005001010040200/EuRussian/Message/AllMessage.szs")
+[19] Read failure

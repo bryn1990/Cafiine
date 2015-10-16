@@ -1,0 +1,11 @@
+[44] Accepted connection from client 192.168.1.47:4034
+[44] TitleID: 00050030-1001220A
+[44] FSOpenFile("/vol/content/pages/index.html", "rb")
+[44] Trying to mount SD card
+[44] Can't mount SD card
+[44] FSGetStat("/vol/external01/000500301001220A/pages/index.html")
+[44] FSOpenFileAsync("/vol/content/pages/index.html", "rb")
+[44] Trying to mount SD card
+[44] Can't mount SD card
+[44] FSGetStat("/vol/external01/000500301001220A/pages/index.html")
+[44] Failed to read past end of stream.

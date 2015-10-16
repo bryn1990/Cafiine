@@ -1,0 +1,5 @@
+[45] Accepted connection from client 192.168.1.47:4035
+[45] TitleID: 00050030-1001220A
+[45] FSOpenFile("/dev/urandom", "rb")
+[45] FSOpenFileAsync("/dev/urandom", "rb")
+[45] Failed to read past end of stream.

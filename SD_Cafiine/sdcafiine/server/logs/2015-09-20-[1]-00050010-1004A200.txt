@@ -1,0 +1,8 @@
+[1] Accepted connection from client 192.168.1.47:3988
+[1] TitleID: 00050010-1004A200
+[1] FSOpenFileAsync("/vol/save/common/stadio.sav", "r")
+[1] FSOpenFileAsync("/vol/save/common/stadio.sav", "r")
+[1] FSGetStat("/vol/save/common/stadio.sav")
+[1] FSOpenFileAsync("/vol/save/common/stadio.sav", "w")
+[1] FSOpenFileAsync("/vol/save/common/stadio.sav", "w")
+[1] Read failure
