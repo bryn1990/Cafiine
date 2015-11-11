@@ -11,7 +11,7 @@ All cafiine Version
 
 Golden45 is not the creator of this software,its just port it to 5.3.2,Thank chaderz and other for the initial creation.
 
-For the other code of other FW (other than 5.3.2) go [here.](http://wiiu.us.to/)
+For the other code of other FW (other than 5.3.2) go [here.](http://wiiu.us.to/) (compiled it in www folder)
 
 There are a gui cafiine_server you can found [here](https://github.com/raulbojalil/cafiine-server-gui)
 
