@@ -5,7 +5,7 @@ Makes it easier to replace and dump game files.
 ![Cafiine Server](http://raulbojalil.com/exp/cafiineserver.png "cafiineserver")
 
 
-## How to use (FW 5.3.2)
+## How to use
 
 1.- Run the server on your PC. Make sure both your PC and Wii U are connected to the same network.
 
@@ -24,4 +24,6 @@ Makes it easier to replace and dump game files.
 [the libwiiu team](https://github.com/wiiudev/libwiiu)
 
 [golden45](https://gbatemp.net/members/golden45.367388/) 
+
+This GUI utilitie have taked from [here](https://github.com/raulbojalil/cafiine-server-gui).
 
